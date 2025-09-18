@@ -1,0 +1,6 @@
+set={"a","b"}
+Li=["a","b","a"]
+tu=("a","b","a")
+print(set)
+print(Li)
+print(tu)
