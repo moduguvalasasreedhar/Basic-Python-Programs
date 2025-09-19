@@ -1,0 +1,7 @@
+fahrenheit=int(input("enter the number"))
+if(fahrenheit<=98):
+    print("cold")
+elif(fahrenheit==98):
+    print("normal")
+else:
+    print("fever")
